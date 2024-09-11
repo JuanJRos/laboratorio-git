@@ -20,4 +20,4 @@ Para crear una rama $git branch (nombre de la rama)
 
 Cambiar a la rama $git checkout (nombre de la rama)
 
-
+Subir contenido y crear la rama $git push -u origin (nombre de la rama)
