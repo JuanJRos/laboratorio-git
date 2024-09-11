@@ -6,3 +6,6 @@ Lo conectamos con GitHub $git remote add origin (ruta)
 
 Subimos lo local a la repositorio online $git push --set-upstream origin master (creamos la rama master a la vez)
 
+Para añadir el archivo al Stagging $git add .
+Creamos el commit $git commit -m "descripción"
+Subimos a la red $git push
