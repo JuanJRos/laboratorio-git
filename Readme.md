@@ -13,3 +13,11 @@ Creamos el commit $git commit -m "descripción"
 
 Subimos a la red $git push
 
+
+### Esto se ha creado desde la rama development
+
+Para crear una rama $git branch (nombre de la rama)
+
+Cambiar a la rama $git checkout (nombre de la rama)
+
+
